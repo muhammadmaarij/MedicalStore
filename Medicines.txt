@@ -1,0 +1,14 @@
+Medicine name: Panadol Quantity: 12 Price: 20.0
+Medicine name: Risek Quantity: 17 Price: 10.0
+Medicine name: Concor Quantity: 13 Price: 30.0
+Medicine name: Norvasc Quantity: 10 Price: 29.0
+Medicine name: Telfast Quantity: 14 Price: 25.0
+Medicine name: Sustac Quantity: 7 Price: 22.0
+Medicine name: LowPlat Quantity: 16 Price: 15.0
+Medicine name: Panadol Quantity: 12 Price: 20.0
+Medicine name: Risek Quantity: 17 Price: 10.0
+Medicine name: Concor Quantity: 13 Price: 30.0
+Medicine name: Norvasc Quantity: 10 Price: 29.0
+Medicine name: Telfast Quantity: 14 Price: 25.0
+Medicine name: Sustac Quantity: 7 Price: 22.0
+Medicine name: LowPlat Quantity: 16 Price: 15.0
